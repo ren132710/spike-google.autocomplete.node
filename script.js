@@ -1,6 +1,6 @@
 /*
  * spike
- * -works consistently with parcel
+ * -works consistently with parcel v2
  * -eliminates process not defined error
  * -effectively hides api key from github
  */
