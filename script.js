@@ -1,7 +1,9 @@
 /*
- * spike
+ * spike: @googlemaps/js-api-loader
+ * findings:
+ * -much easier to implement and works consistently, over downloading the library via <script> tag
  * -works consistently with parcel v2
- * -eliminates process not defined error
+ * -eliminates 'process not defined error' when fetching API_KEY
  * -effectively hides api key from github
  */
 
